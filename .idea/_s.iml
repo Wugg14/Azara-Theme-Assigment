@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Azara Theme">
+      <sourceFolder url="file://$MODULE_DIR$/../Azara Theme/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../Azara Theme/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/wp-cli/mustangostang-spyc" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/wp-cli/i18n-command" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/gettext/gettext" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/wp-cli/wp-cli" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/gettext/languages" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/mustache/mustache" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/phpcompatibility/phpcompatibility-wp" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/phpcompatibility/phpcompatibility-paragonie" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/php-parallel-lint/php-parallel-lint" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/phpcompatibility/php-compatibility" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/wp-coding-standards/wpcs" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/mck89/peast" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/ramsey/array_column" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/wptrt/wpthemereview" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/wp-cli/php-cli-tools" />
+      <excludeFolder url="file://$MODULE_DIR$/../Azara Theme/vendor/rmccue/requests" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -6,24 +6,33 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package _s
+ * @package Azara-theme
  */
 
 ?>
 
 	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', '_s' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', '_s' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', '_s' ), '_s', '<a href="https://automattic.com/">Automattic</a>' );
-				?>
+		<div class="footer__container">
+            <div class="footer-logo__container">
+                <img src="<?php echo get_theme_file_uri('/img/azara-logo-white.png') ?>" alt="Azara Logo"/>
+            </div>
+            <div class="footer-links__container">
+                <div class="footer__user-guide">
+                    <h3>USER GUIDES</h3>
+                    <a href="/#">Parents & Guardians</a>
+                    <a href="/#">Staff</a>
+                    <a href="/#">Clinicians</a>
+                    <a href="/#">Manager</a>
+                    <a href="/#">Leadership</a>
+                </div>
+                <div class="footer__about-links">
+                    <h3>ABOUT</h3>
+                    <a href="/#">Contact Us</a>
+                    <a href="/#">Policies</a>
+                    <a href="/#">EULA</a>
+                    <a href="/#">Connect</a>
+                </div>
+            </div>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

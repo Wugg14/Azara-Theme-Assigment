@@ -1,0 +1,46 @@
+/* Footer Styles
+--------------------------------------------- */
+
+.footer__container {
+  display:flex;
+  max-width:1300px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color: #333333;
+  padding-top:45px;
+  padding-bottom: 10px;
+
+  h3 {
+    color: #fff;
+    text-align: center;
+    font: normal normal 700 22px/26px Quicksand;
+    letter-spacing: -0.55px;
+  }
+
+  a {
+    text-align: left;
+    font: normal normal 400 14px/27px Roboto;
+    letter-spacing: 0px;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.footer-links__container {
+  display: flex;
+  border-left: 2px #fff solid;
+}
+
+.footer__user-guide,
+.footer__about-links {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.footer-logo__container{
+  margin-left:120px;
+  margin-right: 90px;
+  display:flex;
+  align-items: center;
+}
