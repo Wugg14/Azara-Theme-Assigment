@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
-_s
+Azara Theme
 ===
 
 Hi. I'm a  theme called "Azara". I was made with a starter theme called `_s`, or `underscores`.
